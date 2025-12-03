@@ -18,5 +18,5 @@
 📧 Email: [rruizmartin6@gmail.com]  
 
 ---
+<img src=https://images.steamusercontent.com/ugc/85967807163863813/601E60259896346E86CCB35E683C6C90E3D6E675/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false>
 
-⭐️ *Gracias por visitar mi perfil. ¡Explora mis repositorios y proyectos!* 🚀
