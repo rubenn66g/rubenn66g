@@ -18,7 +18,8 @@
 📧 Email: [rruizmartin6@gmail.com]  
 
 ---
-<img src="https://media1.tenor.com/m/Wakk9-QWiLIAAAAC/dokkan-battle-top.gif" alt="goku ultrainstinto" width="100%" heigth="300"/>
+<img src="https://media1.tenor.com/m/Wakk9-QWiLIAAAAC/dokkan-battle-top.gif" alt="goku ultrainstinto" width="100%" heigth="100"/>
+
 
 
 
