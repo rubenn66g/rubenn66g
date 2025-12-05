@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, PHP y MySQL**.  
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, PHP y mucho más**.  
 - 💡 Me interesa el **desarrollo full stack** y la **creación de aplicaciones dinámicas**.  
 - 📚 Estudio para convertirme en **desarrollador web profesional**.    
 - 💬 Me encanta colaborar y aprender con otros desarrolladores.
@@ -19,6 +19,7 @@
 
 ---
 <img src="https://media1.tenor.com/m/Wakk9-QWiLIAAAAC/dokkan-battle-top.gif" alt="goku ultrainstinto" width="100%" heigth="100"/>
+
 
 
 
